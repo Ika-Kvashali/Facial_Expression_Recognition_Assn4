@@ -1,4 +1,4 @@
-# FER-2013 — სახის გამომეტყველების ამოცნობა
+# Facial Expression Recognition Challenge
 
 ## დავალების აღწერა
 
